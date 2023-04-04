@@ -23,7 +23,6 @@
     border: none;
     box-sizing: border-box;
     text-decoration: none;
-    text-transform: capitalize;
     list-style: none;
     transition: all 0.5s linear;
     scroll-behavior: smooth;
