@@ -833,6 +833,10 @@ footer ul li a:hover {
         right: 3%;
     }
 
+    .about_container .about-img {
+        margin-right: 0rem;
+    }
+
     .header_right .text-1 {
         font-size: 1rem;
     }
