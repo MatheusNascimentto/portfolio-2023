@@ -205,6 +205,11 @@ header {
     flex: 1;
 }
 
+.header_left_img {
+   width: 80%;
+}
+
+
 .header_right .text-1 {
     font-size: 1.8rem;
     margin-bottom: 0.3rem;
@@ -523,6 +528,7 @@ header {
     justify-content: center;
     flex-wrap: wrap;
     margin: 0 auto;
+    margin-bottom: 3rem;
     background-color: var(--black);
     border-radius: 2rem;
 }
@@ -801,6 +807,15 @@ footer ul li a:hover {
         transform: rotate(5deg);
     }
     .gallery a {
+        height: 14rem;
+        width: 18rem;
+        margin: 1.2rem;
+        border-radius: 0.3rem;
+        overflow: hidden;
+        box-shadow: 0 3px 5px var(--primary);
+    }
+
+    .gallery video {
         height: 14rem;
         width: 18rem;
         margin: 1.2rem;
