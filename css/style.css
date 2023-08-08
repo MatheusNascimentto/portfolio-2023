@@ -207,6 +207,8 @@ header {
 
 .header_left_img {
    width: 80%;
+   border: 1px solid rgba(0, 0, 0, 0.5);
+   border-radius: 50%;
 }
 
 
@@ -259,7 +261,7 @@ header {
 }
 
 .about_container .about-img {
-    border: 3px solid var(--primary);
+    border: 1px solid var(--primary);
     border-radius: 50%;
     overflow: hidden;
     max-width: 12.5rem;
