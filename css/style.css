@@ -758,7 +758,7 @@ footer ul li a:hover {
         opacity: 0;
     }
     .nav_menu li a{
-        background-color:#29e9bcf8;
+        background-color: var(--primary);
         box-shadow: -4rem 6rem 10rem rgba(0,0,0,0.6);
         width: 100%;
         height: 100%;
